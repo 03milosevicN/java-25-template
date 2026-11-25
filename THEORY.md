@@ -8,6 +8,7 @@
 - [7 - U/I integracija ](#7---ui-integracija)
 - [8 - NIO u Javi](#8---nio-u-javi)
 - [9 - `Path` i `Files`](#9---path-i-files)
+- [10 - Atributi datoteka i putovanje kroz direktorijume](#10---atributi-datoteka-i-putovanje-kroz-direktorijume)
 
 # POGLAVLJE 1
 ---
@@ -1058,3 +1059,5 @@ try (Stream<Path> paths = Files.list(directory)) {
     ).forEach(System.out::println);
 }
 ```
+
+# 10 - Atributi datoteka i putovanje kroz direktorijume

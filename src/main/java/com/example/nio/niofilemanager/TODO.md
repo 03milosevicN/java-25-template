@@ -4,8 +4,7 @@
 - [x] Kopiranje datoteka
 - [x] Premestanje datoteka
 - [x] Brisanje datoteka
-- [ ] Listanje direktorijuma
-- [ ] Prikaz metapodataka o datotekama
-- [ ] Citanje tekstualnih datoteka
-- [ ] Pisanje tekstualnih datoteka
-- [ ] Nalepljivanje teksta u postojecim datotekama
+- [x] Listanje direktorijuma
+- [x] Citanje tekstualnih datoteka
+- [x] Pisanje tekstualnih datoteka
+- [x] Nalepljivanje teksta u postojecim datotekama
