@@ -1,0 +1,11 @@
+# Primeniti operacije:
+- [x] Kreiranje datoteke
+- [x] Kreiranje direktorijuma
+- [x] Kopiranje datoteka
+- [x] Premestanje datoteka
+- [x] Brisanje datoteka
+- [ ] Listanje direktorijuma
+- [ ] Prikaz metapodataka o datotekama
+- [ ] Citanje tekstualnih datoteka
+- [ ] Pisanje tekstualnih datoteka
+- [ ] Nalepljivanje teksta u postojecim datotekama
